@@ -1,0 +1,35 @@
+; Converted using Tim Stridmann's X2BDCFF converter.
+; Last modified: 14 June 2006
+
+[ZXP]
+
+[world]
+Name=The Manic Mansion
+Date=November 2013
+
+[level]
+Name=level 1
+LevelTime=120
+
+[map]
+W
+ 
+
+ 
+wwwwwwwwww
+[/map]
+[/level]
+
+
+[level]
+Name=The level that is named.... #2
+LevelTime=100
+
+[map]
+[/map]
+[/level]
+
+
+[/world]
+
+[/ZXP]
